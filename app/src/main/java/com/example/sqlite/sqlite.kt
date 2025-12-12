@@ -1,7 +1,6 @@
 package com.example.sqlite
 
 import android.provider.BaseColumns
-import FeedEntry;
 import android.content.Context
 import android.database.sqlite.SQLiteDatabase
 import android.database.sqlite.SQLiteOpenHelper
